@@ -1,6 +1,8 @@
 /* War game made by Ammar Alsibai
 used for studying data structures and object oriented programming
 The game is now setup for a human player to play against the computer.
+
+code inspired from Timothy Budd "data structures in c++ using stl"
 */
 
 #include <iostream>
